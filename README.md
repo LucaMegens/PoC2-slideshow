@@ -1,1 +1,1 @@
-PoC2 slideshow
+In deze Proof of Concept wil ik een automatische slideshow maken
